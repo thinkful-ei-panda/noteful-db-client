@@ -1,0 +1,60 @@
+#nav {
+	flex: 1;
+	margin: 8px 0 0 0;
+	text-align: left;
+}
+
+#sidebar-nav a {
+    text-decoration: none;
+}
+
+#all-folders-link {
+    margin: 4px;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 4px 0 4px 0;
+    text-align: center;
+    color: #000;
+    cursor: pointer;
+}
+
+#all-folders-link:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.folder {
+    margin: 4px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 4px;
+    text-align: center;
+    color: #000;
+    cursor: pointer;
+}
+
+.folder:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.active-folder {
+    background-color: #ff0;
+}
+
+#add-folder-link {
+    margin: 4px;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 4px 0 4px 0;
+    text-align: center;
+    color: #000;
+    cursor: pointer;
+}
+
+#add-folder-link:hover {
+    background-color: #000;
+    color: #fff;
+}

@@ -1,0 +1,17 @@
+header {
+	flex: 1;
+	width: 100%;;
+	text-align: center;
+}
+
+.header-link {
+	color: #fff;
+}
+
+.header-link:visited {
+	color: #fff;
+}
+
+.header-link:hover {
+	color: #00f;
+}

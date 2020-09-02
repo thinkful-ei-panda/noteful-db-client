@@ -1,0 +1,52 @@
+.note {
+    margin: 4px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 4px;
+    color: #000;
+    cursor: pointer;
+}
+
+.note-name a{
+    text-decoration: none;
+    color: #00f;
+}
+
+.note-name a:visited{
+    color: #00f;
+}
+.note-name a:hover{
+    color: #000;
+}
+
+.note-name h2 {
+    margin: 0 0 0 0;
+}
+
+.note-modified {
+
+}
+
+.note-delete {
+    
+}
+
+.add-note-link {
+    text-decoration: none;
+}
+
+#add-note-button{
+    margin: 4px 4px 0 4px;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 4px 0 4px 0;
+    text-align: center;
+    color: #000;
+    cursor: pointer;
+}
+
+#add-note-button:hover{
+    background-color: #000;
+    color: #fff;
+}

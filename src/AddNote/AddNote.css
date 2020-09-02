@@ -1,0 +1,48 @@
+#add-note-container {
+	margin: 4px;
+    background-color: #fff;
+    border-radius: 5px;
+	padding: 4px;
+	text-align: center;
+    color: #000;
+}
+
+#add-note-form {
+
+}
+
+.add-note-form-element-container {
+	margin: 10px 4px 4px 4px;
+	width: 100%;
+}
+
+#add-note-form label {
+	display: block;
+    margin: 4px 4px 4px 40px;
+	width: 90%;
+	text-align: left;
+}
+
+#note-name-input {
+	width: 90%;
+}
+
+#note-content-input {
+	width: 90%;
+}
+
+#note-folder-select {
+	width: 91%;
+}
+
+#add-note-form button {
+
+}
+
+#add-note-error-message-container {
+	width: 90%;
+	color: #ff0000;
+}
+.error {
+	display: inline-block;
+}

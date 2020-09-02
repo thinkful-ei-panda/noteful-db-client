@@ -1,0 +1,37 @@
+#add-folder-container {
+	margin: 4px;
+    background-color: #fff;
+    border-radius: 5px;
+	padding: 4px;
+	text-align: center;
+    color: #000;
+}
+
+#add-folder-form {
+
+}
+
+.add-folder-form-element-container {
+	margin: 10px 4px 4px 4px;
+	width: 100%;
+}
+
+#add-folder-form label {
+	display: block;
+    margin: 4px 4px 4px 40px;
+	width: 90%;
+	text-align: left;
+}
+
+#folder-name-input {
+	width: 90%;
+}
+
+#add-folder-form button {
+
+}
+
+#add-folder-error-message-container {
+	width: 90%;
+	color: #ff0000;
+}
